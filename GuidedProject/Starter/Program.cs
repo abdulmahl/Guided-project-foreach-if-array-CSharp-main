@@ -23,6 +23,7 @@ class Program
 
         string currentStudentLetterGrade = "";
 
+        Clear();
         WriteLine("Student\t\tGrade\n");
 
         foreach (string name in studentNames)
