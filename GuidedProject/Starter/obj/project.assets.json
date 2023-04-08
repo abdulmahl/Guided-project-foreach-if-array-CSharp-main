@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/m.abdulmahlangu/Documents/C# beginner MS/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
+      "projectUniqueName": "/Users/m.abdulmahlangu/Documents/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
       "projectName": "Starter",
-      "projectPath": "/Users/m.abdulmahlangu/Documents/C# beginner MS/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
+      "projectPath": "/Users/m.abdulmahlangu/Documents/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/Starter.csproj",
       "packagesPath": "/Users/m.abdulmahlangu/.nuget/packages/",
-      "outputPath": "/Users/m.abdulmahlangu/Documents/C# beginner MS/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/",
+      "outputPath": "/Users/m.abdulmahlangu/Documents/CsharpProjects/Guided-project-foreach-if-array-CSharp-main/GuidedProject/Starter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/m.abdulmahlangu/.nuget/NuGet/NuGet.Config"
